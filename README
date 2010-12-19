@@ -1,0 +1,7 @@
+                    ================
+                    My munin plugins
+                    ================
+
+* tomcat_threads
+Monitor the number of tomcat-threads running on the machine
+
